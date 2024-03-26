@@ -3,6 +3,6 @@ package main
 import (
 	"fmt"
 )
-func main() {
+func printl() {
   fmt.Println("BING BONG")
 }
